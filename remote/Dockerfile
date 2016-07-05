@@ -5,4 +5,4 @@ ADD nginx.conf /etc/nginx/nginx.conf
 
 CMD nginx
 
-EXPOSE 80
+EXPOSE 8001
